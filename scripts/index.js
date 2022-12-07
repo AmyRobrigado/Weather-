@@ -2,6 +2,8 @@
 
 window.onload = function(){
     pickByCityDropdown();
+
+    
 }
 
 function pickByCityDropdown(){
@@ -20,3 +22,4 @@ function pickByCityDropdown(){
         citySelect.appendChild(opt1);
     }
 }
+
